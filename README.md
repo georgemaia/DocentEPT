@@ -16,7 +16,9 @@ https://ava.cefor.ifes.edu.br/course/view.php?id=27163
 
 [![Capa Youtube](https://img.youtube.com/vi/CqBNkek2FVM/mqdefault.jpg)](https://www.youtube.com/watch?v=CqBNkek2FVM)
 
-[![PDF](https://img.shields.io/badge/AULA_INAUGURAL-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/aula_inaugural_12_05_2022.pdf) [![PDF](https://img.shields.io/badge/CRONOGRAMA_DAS_DISCIPLINAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Cronograma_das_disciplinas_2022.pdf) [![PDF](https://img.shields.io/badge/CALENDARIO_ACADEMICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Calendario_Academico_2022.pdf)
+[![PDF](https://img.shields.io/badge/AULA_INAUGURAL-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/aula_inaugural_12_05_2022.pdf) [![PDF](https://img.shields.io/badge/CRONOGRAMA_DAS_DISCIPLINAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Cronograma_das_disciplinas_2022.pdf) [![PDF](https://img.shields.io/badge/CALENDARIO_ACADEMICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Calendario_Academico_2022.pdf) [![PDF](https://img.shields.io/badge/DISTRIBUICAO_DA_EQUIPE_POR_POLO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/coordenadores_diversos_Mediadores_2022.pdf)
+
+.pdf
 
 ---
 
