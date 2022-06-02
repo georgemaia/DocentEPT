@@ -20,7 +20,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
 
 ## Coordenação Aluno 2022
 
-https://ava.cefor.ifes.edu.br/course/view.php?id=27163
+[![Banner Ambientação em Educação a Distância](assets/banner_coordenacao.png)](https://ava.cefor.ifes.edu.br/course/view.php?id=27163)
 
 ### Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional
 
