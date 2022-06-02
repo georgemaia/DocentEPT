@@ -51,3 +51,7 @@ Para fazer sua solicitação, você deverá:
 https://ava.cefor.ifes.edu.br/course/view.php?id=27101
 
 [Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
+
+Ambientes virtuais de aprendizagem
+
+[![Capa Youtube](https://img.youtube.com/vi/NTkq4rsf5oE/mqdefault.jpg)](https://www.youtube.com/watch?v=NTkq4rsf5oE)
