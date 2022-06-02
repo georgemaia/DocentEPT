@@ -58,4 +58,4 @@ Ambientes virtuais de aprendizagem
 
 https://padlet.com/
 
-Avaliação em EAD - https://padlet.com/tanialuisa33/k0m1d7bbkbat9b6k
+Avaliação em EAD - https://crescercomeducacao.com.br/avaliacao-no-ead/
