@@ -1,5 +1,7 @@
 # DocentEPT
 
+![Banner DocentEPT](assets/banner_docentept.png)
+
 Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnológica
 
 Ambiente Virtual de Aprendizagem: https://ava.cefor.ifes.edu.br
@@ -47,6 +49,8 @@ Para fazer sua solicitação, você deverá:
 ## Disciplinas
 
 ### Ambientação em Educação a Distância
+
+![Banner Ambientação em Educação a Distância](assets/banner_ambientacao_em_educacao_a_distancia.png)
 
 https://ava.cefor.ifes.edu.br/course/view.php?id=27101
 
