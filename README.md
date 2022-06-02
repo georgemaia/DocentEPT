@@ -49,3 +49,5 @@ Para fazer sua solicitação, você deverá:
 ### Ambientação em Educação a Distância
 
 https://ava.cefor.ifes.edu.br/course/view.php?id=27101
+
+[Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
