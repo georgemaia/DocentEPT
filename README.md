@@ -83,6 +83,8 @@ Educação a distancia: mitos e verdades
 
 [![PDF](https://img.shields.io/badge/MOODLE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/moodle.pdf)
 
+[Net Etiqueta na EAD](https://crescercomeducacao.com.br/netiqueta-na-ead/)
+
 [![PDF](https://img.shields.io/badge/NETIQUETA_NA_EAD-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](https://ava.cefor.ifes.edu.br/mod/book/view.php?id=1710924)
 
 https://padlet.com/
