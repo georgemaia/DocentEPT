@@ -13,6 +13,8 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
         - [Grade Curricular](#grade-curricular)
     - [Disciplinas](#disciplinas)
         - [Ambientação em Educação a Distância](#ambienta%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividade](#atividade)
 
 <!-- /TOC -->
 
@@ -79,13 +81,31 @@ Educação a distancia: mitos e verdades
 
 [![Capa Youtube](https://img.youtube.com/vi/CqBNkek2FVM/mqdefault.jpg)](https://www.youtube.com/watch?v=CqBNkek2FVM)
 
-[O que é o Moodle?](https://crescercomeducacao.com.br/o-que-e-o-moodle/) 
+---
 
-[![PDF](https://img.shields.io/badge/MOODLE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/moodle.pdf)
+#### Referências
 
-[Net Etiqueta na EAD](https://crescercomeducacao.com.br/netiqueta-na-ead/)
+[O que é o Moodle?](https://crescercomeducacao.com.br/o-que-e-o-moodle/) [![PDF](https://img.shields.io/badge/MOODLE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/moodle.pdf)
 
-[![PDF](https://img.shields.io/badge/NETIQUETA_NA_EAD-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/netiqueta.pdf)
+[Net Etiqueta na EAD](https://crescercomeducacao.com.br/netiqueta-na-ead/) [![PDF](https://img.shields.io/badge/NETIQUETA_NA_EAD-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/netiqueta.pdf)
+
+[Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica](https://www.in.gov.br/web/dou/-/resolucao-cne/cp-n-1-de-5-de-janeiro-de-2021-297767578)
+
+[Diretrizes para educação a distância da Rede Federal de Educação Profissional e Tecnológica: módulo histórico](http://proedu.rnp.br/handle/123456789/1653)
+
+[Diretrizes para educação a distância da Rede Federal de Educação Profissional e Tecnológica: módulo de legislação](http://proedu.rnp.br/handle/123456789/1655)
+
+[Diretrizes para Educação a Distância da Rede Federal de Educação Profissional e Tecnológica: módulo estrutural](http://proedu.rnp.br/handle/123456789/1654)
+
+A Educação a Distância e as tendências do segmento
+
+[![Capa Youtube](https://img.youtube.com/vi/JP-cejlzLFg/mqdefault.jpg)](https://www.youtube.com/watch?v=JP-cejlzLFg)
+
+[Educação a Distância: breve histórico e contribuições da Universidade Aberta do Brasil (UAB) e Rede E-Tec Brasil](https://www.researchgate.net/publication/324136558_EDUCACAO_A_DISTANCIA_NO_BRASIL_breve_historico_e_contribuicoes_da_Universidade_Aberta_do_Brasil_e_Rede_e-Tec_Brasil)
+
+---
+
+#### Atividade
 
 https://padlet.com/
 
