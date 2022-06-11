@@ -133,7 +133,7 @@ Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 
 ### Epistemologia da EPT 
 
-[![Banner Epistemologia da EPT ](assets/banner_Epistemologia _a_EPT png)]()
+[![Banner Epistemologia da EPT ](assets/banner_Epistemologia _da_EPT png)]()
 
 Professor Mediador: 
 
