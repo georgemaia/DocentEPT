@@ -67,9 +67,9 @@ Para fazer sua solicitação, você deverá:
 
 Professor Mediador: [Manoel Augusto Polastreli Barbosa](https://ava.cefor.ifes.edu.br/user/view.php?id=16311&course=27101)
 
-Professora Formadora: [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
-
-Professora Formadora: [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
+Professores Formadores: 
+    - [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
+    - [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
 
 [Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
 
@@ -137,11 +137,10 @@ Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 
 Professor Mediador: 
 
-Professora Formadora: Larissy Cotonhoto
-
-Professor Formador: Gustavo Moraes
-
-Professor Formador: Olivier Allain
+Professores Formadoradores: 
+    - Gustavo Moraes
+    - Larissy Cotonhoto
+    - Olivier Allain
 
 ---
 
