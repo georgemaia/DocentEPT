@@ -167,3 +167,169 @@ Didática Profissional
 ---
 
 #### Atividades
+
+---
+
+### Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Jaqueline Maissiat
+- Sanandreia Perini
+- Olivier Allain 
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Tecnologias Educacionais na EPT              
+                
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Igor MEndonça
+- Yvina Pavan Baldo
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Didática                           
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Paulo Wollinger
+- Indiana Reis
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+ 
+### Prática Inclusivas na EPT 
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Larissy Cotonhoto
+- Emilene Coco
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Projetos Pedagógicos 
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Elizabete Sandrini
+- Sananadreia Perini
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Pesquisa e Extensão Tecnológicas 
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Emilene Coco
+- Indiana Reis
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Libras     
+
+Professor Mediador: 
+
+Professores Formadoradores: 
+
+- Eliana Burgarelli
+- Carla Rejane
+
+---
+
+#### Videoaulas
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
+
+---
+
+### Trabalho Final de Curso
