@@ -10,7 +10,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
     - [Coordenação Aluno 2022](#coordena%C3%A7%C3%A3o-aluno-2022)
         - [Documentação](#documenta%C3%A7%C3%A3o)
         - [Requerimento](#requerimento)
-    - [Grade Curricular](#grade-curricular)
+        - [Grade Curricular](#grade-curricular)
     - [Disciplinas](#disciplinas)
         - [Ambientação em Educação a Distância](#ambienta%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia)
 
@@ -40,9 +40,7 @@ Para fazer sua solicitação, você deverá:
 
 [![Word](https://img.shields.io/badge/MODELO_DE_REQUERIMENTO-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/Modelo_de_Requerimento.doc)
 
----
-
-## Grade Curricular
+### Grade Curricular
 
 |                        **Disciplinas**                        | **Carga Horária** |                      **Docentes**                      |
 |:-------------------------------------------------------------:|:-----------------:|:------------------------------------------------------:|
