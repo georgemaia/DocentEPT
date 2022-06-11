@@ -44,6 +44,23 @@ Para fazer sua solicitação, você deverá:
 
 ---
 
+## Grade Curricular
+
+|                        **Disciplinas**                        | **Carga Horária** |                      **Docentes**                      |
+|:-------------------------------------------------------------:|:-----------------:|:------------------------------------------------------:|
+|                            EAD/AVA                            |         20        | Mariella Berger e Yvina Pavan Baldo                    |
+|                      Epistemologia da EPT                     |         60        | Gustavo Moraes, Larissy Cotonhoto e Olivier Allain     |
+| Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT |         60        | Jaqueline Maissiat, Sanandreia Perini e Olivier Allain |
+|                Tecnologias Educacionais na EPT                |         60        | Igor MEndonça e Yvina Pavan Baldo                      |
+|                            Didática                           |         60        | Paulo Wollinger e Indiana Reis                         |
+|                   Prática Inclusivas na EPT                   |         40        | Larissy Cotonhoto e Emilene Coco                       |
+|                      Projetos Pedagógicos                     |         60        | Elizabete Sandrini e Sananadreia Perini                |
+|                Pesquisa e Extensão Tecnológicas               |         40        | Emilene Coco e Indiana Reis                            |
+|                             Libras                            |         30        | Eliana Burgarelli e Carla Rejane                       |
+|                    Trabalho Final de Curso                    |         30        | Paulo Wollinger e Jaqueline Maissiat                   |
+
+---
+
 ## Disciplinas
 
 ### Ambientação em Educação a Distância
