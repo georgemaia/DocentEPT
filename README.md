@@ -68,6 +68,7 @@ Para fazer sua solicitação, você deverá:
 Professor Mediador: [Manoel Augusto Polastreli Barbosa](https://ava.cefor.ifes.edu.br/user/view.php?id=16311&course=27101)
 
 Professores Formadores: 
+
     - [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
     - [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
 
@@ -138,6 +139,7 @@ Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 Professor Mediador: 
 
 Professores Formadoradores: 
+
     - Gustavo Moraes
     - Larissy Cotonhoto
     - Olivier Allain
