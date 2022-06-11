@@ -67,6 +67,12 @@ Para fazer sua solicitação, você deverá:
 
 [![Banner Ambientação em Educação a Distância](assets/banner_ambientacao_em_educacao_a_distancia.png)](https://ava.cefor.ifes.edu.br/course/view.php?id=27101)
 
+Professor Mediador: [Manoel Augusto Polastreli Barbosa](https://ava.cefor.ifes.edu.br/user/view.php?id=16311&course=27101)
+
+Professora Formadora: [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
+
+Professora Formadora: [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
+
 [Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
 
 Ambientes virtuais de aprendizagem
