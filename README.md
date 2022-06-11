@@ -2,15 +2,15 @@
 
 [![Banner DocentEPT](assets/banner_docentept.png)](https://ava.cefor.ifes.edu.br)
 
-Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnológica
+Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnológica - IFES Colatina.
 
 <!-- TOC -->
 
 - [DocentEPT](#docentept)
     - [Coordenação Aluno 2022](#coordena%C3%A7%C3%A3o-aluno-2022)
         - [Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional](#aula-inaugural-do-curso-de-especializa%C3%A7%C3%A3o-lato-sensu-em-doc%C3%AAncia-para-educa%C3%A7%C3%A3o-profissional)
-        - [Aula EAD AVA: Educação a distancia: mitos e verdades](#aula-ead-ava-educa%C3%A7%C3%A3o-a-distancia-mitos-e-verdades)
         - [Requerimento](#requerimento)
+    - [Grade Curricular](#grade-curricular)
     - [Disciplinas](#disciplinas)
         - [Ambientação em Educação a Distância](#ambienta%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia)
 
@@ -25,10 +25,6 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
 ### Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional
 
 [![Capa Youtube](https://img.youtube.com/vi/k4BquTn1h34/mqdefault.jpg)](https://www.youtube.com/watch?v=k4BquTn1h34)
-
-### Aula EAD AVA: Educação a distancia: mitos e verdades
-
-[![Capa Youtube](https://img.youtube.com/vi/CqBNkek2FVM/mqdefault.jpg)](https://www.youtube.com/watch?v=CqBNkek2FVM)
 
 [![PDF](https://img.shields.io/badge/AULA_INAUGURAL-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/aula_inaugural_12_05_2022.pdf) [![PDF](https://img.shields.io/badge/CRONOGRAMA_DAS_DISCIPLINAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Cronograma_das_disciplinas_2022.pdf) [![PDF](https://img.shields.io/badge/CALENDARIO_ACADEMICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Calendario_Academico_2022.pdf) [![PDF](https://img.shields.io/badge/DISTRIBUICAO_DA_EQUIPE_POR_POLO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/coordenadores_diversos_Mediadores_2022.pdf) [![PDF](https://img.shields.io/badge/PROJETO_PEDAGOGICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/projeto_pedagogico.pdf) [![PDF](https://img.shields.io/badge/INSTRUÇÕES_NORMATIVAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/instrucoes_normativas_2022.pdf) [![PDF](https://img.shields.io/badge/MANUAL_DO_ALUNO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Manual_do_Aluno.pdf)
 
@@ -83,10 +79,27 @@ Educação a distancia: mitos e verdades
 
 [![Capa Youtube](https://img.youtube.com/vi/CqBNkek2FVM/mqdefault.jpg)](https://www.youtube.com/watch?v=CqBNkek2FVM)
 
-Tutorial do Recurso Livro do Moodle
+[O que é o Moodle?](https://crescercomeducacao.com.br/o-que-e-o-moodle/) 
 
-[![Capa Youtube](https://img.youtube.com/vi/hfWKMY_RQGM/mqdefault.jpg)](https://www.youtube.com/watch?v=hfWKMY_RQGM)
+[![PDF](https://img.shields.io/badge/MOODLE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/moodle.pdf)
+
+[![PDF](https://img.shields.io/badge/NETIQUETA_NA_EAD-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](https://ava.cefor.ifes.edu.br/mod/book/view.php?id=1710924)
 
 https://padlet.com/
 
-Avaliação em EAD - https://crescercomeducacao.com.br/avaliacao-no-ead/
+Paines dos grupos:
+- Grupo 1: Afetividade na EaD: 
+- Grupo 2: A importância do Feedback na EaD: 
+- Grupo 3: O papel do tutor/mediador na EaD: 
+- Grupo 4: Colaboração na EaD: 
+- Grupo 5: Avaliação na EaD: https://crescercomeducacao.com.br/avaliacao-no-ead/
+- Grupo 6: O Fórum na EaD: 
+- Grupo 7: Design Educacional para EaD: 
+- Grupo 8: Google Sala de Aula: 
+
+Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
+
+- [] Acesse os links do Padlets (quadros esquemáticos/painéis colaborativos) construídos, disponíveis no fórum da semana 2. 
+- [] Você deverá visitar e comentar em ao menos um dos quadros esquemáticos/painéis colaborativos desenvolvidos pelos grupos.
+- [] Os comentários devem incluir: uma análise geral da estrutura do trabalho (textos, mídias, forma de dispor as informações); observações sobre as relações entre os trabalhos do grupo analisado e o de quem comenta. 
+
