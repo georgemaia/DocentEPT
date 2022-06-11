@@ -73,6 +73,10 @@ Professora Formadora: [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/vie
 
 [Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
 
+---
+
+#### Videoaulas
+
 Ambientes virtuais de aprendizagem
 
 [![Capa Youtube](https://img.youtube.com/vi/NTkq4rsf5oE/mqdefault.jpg)](https://www.youtube.com/watch?v=NTkq4rsf5oE)
@@ -105,7 +109,7 @@ A Educação a Distância e as tendências do segmento
 
 ---
 
-#### Atividade
+#### Atividades
 
 https://padlet.com/
 
@@ -125,3 +129,40 @@ Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 - [] Você deverá visitar e comentar em ao menos um dos quadros esquemáticos/painéis colaborativos desenvolvidos pelos grupos.
 - [] Os comentários devem incluir: uma análise geral da estrutura do trabalho (textos, mídias, forma de dispor as informações); observações sobre as relações entre os trabalhos do grupo analisado e o de quem comenta. 
 
+---
+
+### Epistemologia da EPT 
+
+[![Banner Epistemologia da EPT ](assets/banner_Epistemologia _a_EPT png)]()
+
+Professor Mediador: 
+
+Professora Formadora: Larissy Cotonhoto
+
+Professor Formador: Gustavo Moraes
+
+Professor Formador: Olivier Allain
+
+---
+
+#### Videoaulas
+
+Epistemologia da EPT
+
+[![Capa Youtube](https://img.youtube.com/vi/XgXLCR1mc4w/mqdefault.jpg)](https://www.youtube.com/watch?v=XgXLCR1mc4w)
+
+Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
+
+[![Capa Youtube](https://img.youtube.com/vi/USApQX3rzVU/mqdefault.jpg)](https://www.youtube.com/watch?v=USApQX3rzVU)
+
+Didática Profissional
+
+[![Capa Youtube](https://img.youtube.com/vi/cdu51E3iqvU/mqdefault.jpg)](https://www.youtube.com/watch?v=cdu51E3iqvU)
+
+---
+
+#### Referências
+
+---
+
+#### Atividades
