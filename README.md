@@ -8,7 +8,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
 
 - [DocentEPT](#docentept)
     - [Coordenação Aluno 2022](#coordena%C3%A7%C3%A3o-aluno-2022)
-        - [Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional](#aula-inaugural-do-curso-de-especializa%C3%A7%C3%A3o-lato-sensu-em-doc%C3%AAncia-para-educa%C3%A7%C3%A3o-profissional)
+        - [Documentação](#documenta%C3%A7%C3%A3o)
         - [Requerimento](#requerimento)
     - [Grade Curricular](#grade-curricular)
     - [Disciplinas](#disciplinas)
@@ -22,9 +22,11 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
 
 [![Banner Ambientação em Educação a Distância](assets/banner_coordenacao.png)](https://ava.cefor.ifes.edu.br/course/view.php?id=27163)
 
-### Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional
+Aula Inaugural do Curso de Especialização Lato Sensu em Docência para Educação Profissional
 
 [![Capa Youtube](https://img.youtube.com/vi/k4BquTn1h34/mqdefault.jpg)](https://www.youtube.com/watch?v=k4BquTn1h34)
+
+### Documentação
 
 [![PDF](https://img.shields.io/badge/AULA_INAUGURAL-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/aula_inaugural_12_05_2022.pdf) [![PDF](https://img.shields.io/badge/CRONOGRAMA_DAS_DISCIPLINAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Cronograma_das_disciplinas_2022.pdf) [![PDF](https://img.shields.io/badge/CALENDARIO_ACADEMICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Calendario_Academico_2022.pdf) [![PDF](https://img.shields.io/badge/DISTRIBUICAO_DA_EQUIPE_POR_POLO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/coordenadores_diversos_Mediadores_2022.pdf) [![PDF](https://img.shields.io/badge/PROJETO_PEDAGOGICO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/projeto_pedagogico.pdf) [![PDF](https://img.shields.io/badge/INSTRUÇÕES_NORMATIVAS-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/instrucoes_normativas_2022.pdf) [![PDF](https://img.shields.io/badge/MANUAL_DO_ALUNO-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Manual_do_Aluno.pdf)
 
