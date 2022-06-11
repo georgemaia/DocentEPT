@@ -79,6 +79,14 @@ Ambientes virtuais de aprendizagem
 
 [![Capa Youtube](https://img.youtube.com/vi/NTkq4rsf5oE/mqdefault.jpg)](https://www.youtube.com/watch?v=NTkq4rsf5oE)
 
+Educação a distancia: mitos e verdades
+
+[![Capa Youtube](https://img.youtube.com/vi/CqBNkek2FVM/mqdefault.jpg)](https://www.youtube.com/watch?v=CqBNkek2FVM)
+
+Tutorial do Recurso Livro do Moodle
+
+[![Capa Youtube](https://img.youtube.com/vi/hfWKMY_RQGM/mqdefault.jpg)](https://www.youtube.com/watch?v=hfWKMY_RQGM)
+
 https://padlet.com/
 
 Avaliação em EAD - https://crescercomeducacao.com.br/avaliacao-no-ead/
