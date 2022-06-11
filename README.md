@@ -110,14 +110,14 @@ A Educação a Distância e as tendências do segmento
 https://padlet.com/
 
 Paines dos grupos:
-- Grupo 1: Afetividade na EaD: 
-- Grupo 2: A importância do Feedback na EaD: 
-- Grupo 3: O papel do tutor/mediador na EaD: 
-- Grupo 4: Colaboração na EaD: 
+- Grupo 1: Afetividade na EaD
+- Grupo 2: A importância do Feedback na EaD
+- Grupo 3: O papel do tutor/mediador na EaD
+- Grupo 4: Colaboração na EaD 
 - [Grupo 5: Avaliação na EaD](https://crescercomeducacao.com.br/avaliacao-no-ead/) 
-- Grupo 6: O Fórum na EaD: 
-- Grupo 7: Design Educacional para EaD: 
-- Grupo 8: Google Sala de Aula: 
+- Grupo 6: O Fórum na EaD
+- Grupo 7: Design Educacional para EaD
+- Grupo 8: Google Sala de Aula
 
 Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 
