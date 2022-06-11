@@ -69,8 +69,8 @@ Professor Mediador: [Manoel Augusto Polastreli Barbosa](https://ava.cefor.ifes.e
 
 Professores Formadores: 
 
-    - [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
-    - [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
+- [Mariella Berger Andrade](https://ava.cefor.ifes.edu.br/user/view.php?id=75&course=27101)
+- [Yvina Pavan Baldo](https://ava.cefor.ifes.edu.br/user/view.php?id=10&course=27101)
 
 [Infográfico de Apresentação da Disciplina desenvolvido na ferramenta Genially.](https://view.genial.ly/62558271050f22001205fbcb/interactive-content-ead-ava-20221-docentep)
 
@@ -140,9 +140,9 @@ Professor Mediador:
 
 Professores Formadoradores: 
 
-    - Gustavo Moraes
-    - Larissy Cotonhoto
-    - Olivier Allain
+- Gustavo Moraes
+- Larissy Cotonhoto
+- Olivier Allain
 
 ---
 
