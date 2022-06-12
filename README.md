@@ -156,7 +156,7 @@ Paines dos grupos:
 - [Grupo 5: Avaliação na EaD](https://crescercomeducacao.com.br/avaliacao-no-ead/) 
 - [Grupo 6: O Fórum na EaD](https://padlet.com/eloisavarela1/6e1opgbzbisawqwa)
 - [Grupo 7: Design Educacional para EaD](https://crescercomeducacao.com.br/design-educacional/)
-- Grupo 8: Google Sala de Aula
+- [Grupo 8: Google Sala de Aula](https://www.canva.com/design/DAFClSJovLU/3Wxn0LLZN4IdEvn8o6AMvA/view?utm_content=DAFClSJovLU&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 ---
 
