@@ -154,15 +154,9 @@ Paines dos grupos:
 - Grupo 3: O papel do tutor/mediador na EaD
 - Grupo 4: Colaboração na EaD 
 - [Grupo 5: Avaliação na EaD](https://crescercomeducacao.com.br/avaliacao-no-ead/) 
-- Grupo 6: O Fórum na EaD
-- Grupo 7: Design Educacional para EaD
+- [Grupo 6: O Fórum na EaD](https://padlet.com/eloisavarela1/6e1opgbzbisawqwa)
+- [Grupo 7: Design Educacional para EaD](https://crescercomeducacao.com.br/design-educacional/)
 - Grupo 8: Google Sala de Aula
-
-Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
-
-- [] Acesse os links do Padlets (quadros esquemáticos/painéis colaborativos) construídos, disponíveis no fórum da semana 2. 
-- [] Você deverá visitar e comentar em ao menos um dos quadros esquemáticos/painéis colaborativos desenvolvidos pelos grupos.
-- [] Os comentários devem incluir: uma análise geral da estrutura do trabalho (textos, mídias, forma de dispor as informações); observações sobre as relações entre os trabalhos do grupo analisado e o de quem comenta. 
 
 ---
 
