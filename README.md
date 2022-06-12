@@ -13,8 +13,42 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
         - [Grade Curricular](#grade-curricular)
     - [Disciplinas](#disciplinas)
         - [Ambientação em Educação a Distância](#ambienta%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia)
+            - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
-            - [Atividade](#atividade)
+            - [Atividades](#atividades)
+        - [Epistemologia da EPT](#epistemologia-da-ept)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](#educa%C3%A7%C3%A3o-de-jovens-e-adultos-e-teorias-da-aprendizagem-na-ept)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Tecnologias Educacionais na EPT](#tecnologias-educacionais-na-ept)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Didática](#did%C3%A1tica)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Práticas Inclusivas na EPT](#pr%C3%A1ticas-inclusivas-na-ept)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Projetos Pedagógicos](#projetos-pedag%C3%B3gicos)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Pesquisa e Extensão Tecnológicas](#pesquisa-e-extens%C3%A3o-tecnol%C3%B3gicas)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Libras](#libras)
+            - [Videoaulas](#videoaulas)
+            - [Referências](#refer%C3%AAncias)
+            - [Atividades](#atividades)
+        - [Trabalho Final de Curso](#trabalho-final-de-curso)
 
 <!-- /TOC -->
 
@@ -51,7 +85,7 @@ Para fazer sua solicitação, você deverá:
 | Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT |         60        | Jaqueline Maissiat, Sanandreia Perini e Olivier Allain |
 |                Tecnologias Educacionais na EPT                |         60        | Igor MEndonça e Yvina Pavan Baldo                      |
 |                            Didática                           |         60        | Paulo Wollinger e Indiana Reis                         |
-|                   Prática Inclusivas na EPT                   |         40        | Larissy Cotonhoto e Emilene Coco                       |
+|                   Práticas Inclusivas na EPT                   |         40        | Larissy Cotonhoto e Emilene Coco                       |
 |                      Projetos Pedagógicos                     |         60        | Elizabete Sandrini e Sananadreia Perini                |
 |                Pesquisa e Extensão Tecnológicas               |         40        | Emilene Coco e Indiana Reis                            |
 |                             Libras                            |         30        | Eliana Burgarelli e Carla Rejane                       |
@@ -134,7 +168,7 @@ Colaborar nos painéis desenvolvidos pelos grupos siga as instruções a seguir:
 
 ### Epistemologia da EPT 
 
-[![Banner Epistemologia da EPT ](assets/banner_Epistemologia _da_EPT png)]()
+[![Banner Epistemologia da EPT ](assets/banner_Epistemologia_da_EPT.png)]()
 
 Professor Mediador: 
 
@@ -172,6 +206,8 @@ Didática Profissional
 
 ### Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
 
+[![Banner Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](assets/banner_educacao_de_jovens_e_adultos.png)]()
+
 Professor Mediador: 
 
 Professores Formadoradores: 
@@ -194,7 +230,9 @@ Professores Formadoradores:
 
 ---
 
-### Tecnologias Educacionais na EPT              
+### Tecnologias Educacionais na EPT
+
+[![Banner Tecnologias Educacionais na EPT](assets/banner_tecnologias_educacionais_na_ept.png)]()
                 
 Professor Mediador: 
 
@@ -217,7 +255,9 @@ Professores Formadoradores:
 
 ---
 
-### Didática                           
+### Didática
+
+[![Banner Didática](assets/banner_didatica.png)]()
 
 Professor Mediador: 
 
@@ -240,7 +280,9 @@ Professores Formadoradores:
 
 ---
  
-### Prática Inclusivas na EPT 
+### Práticas Inclusivas na EPT
+
+[![Banner Práticas Inclusivas na EPT](assets/banner_praticas_inclusivas_na_ept.png)]()
 
 Professor Mediador: 
 
@@ -263,7 +305,9 @@ Professores Formadoradores:
 
 ---
 
-### Projetos Pedagógicos 
+### Projetos Pedagógicos
+
+[![Banner Projetos Pedagógicos](assets/banner_projetos_pedagogicos.png)]()
 
 Professor Mediador: 
 
@@ -286,7 +330,9 @@ Professores Formadoradores:
 
 ---
 
-### Pesquisa e Extensão Tecnológicas 
+### Pesquisa e Extensão Tecnológicas
+
+[![Banner Pesquisa e Extensão Tecnológicas](assets/banner_pesquisa_estensao_tecnologica.png)]()
 
 Professor Mediador: 
 
@@ -309,7 +355,9 @@ Professores Formadoradores:
 
 ---
 
-### Libras     
+### Libras
+
+[![Banner Libras](assets/banner_libras.png)]()
 
 Professor Mediador: 
 
@@ -333,3 +381,5 @@ Professores Formadoradores:
 ---
 
 ### Trabalho Final de Curso
+
+[![Banner Trabalho Final de Curso](assets/banner_trabalho_final_de_curso.png)]()
