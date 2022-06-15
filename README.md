@@ -310,6 +310,8 @@ WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: nova
 
 [![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
 
+[![PDF](https://img.shields.io/badge/OBSERVAÇÕES_SOBRE_A_TÉCNICA_E_A_TECNOLOGIA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/observacoes_sobre_a_tecnica_e_a_tecnologia.pdf)
+
 ---
 
 ### Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
