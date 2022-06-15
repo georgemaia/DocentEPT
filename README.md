@@ -17,9 +17,13 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
             - [Referências](#refer%C3%AAncias)
             - [Atividades](#atividades)
         - [Epistemologia da EPT](#epistemologia-da-ept)
+            - [Cronograma](#cronograma)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
+                - [Básicas](#b%C3%A1sicas)
+                - [Complementares](#complementares)
             - [Atividades](#atividades)
+                - [Semana 01](#semana-01)
         - [Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](#educa%C3%A7%C3%A3o-de-jovens-e-adultos-e-teorias-da-aprendizagem-na-ept)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
@@ -169,8 +173,48 @@ Professor Mediador:
 Professores Formadoradores: 
 
 - Gustavo Moraes
-- Larissy Cotonhoto
+- [Larissy Cotonhoto](https://ava.cefor.ifes.edu.br/user/view.php?id=8300&course=27459)
 - Olivier Allain
+
+**Carga horária**: 60h
+ 
+**Ementa**
+
+Esta unidade curricular está dividida em três momentos: conceitual, histórico e estrutural.
+
+- **Fundamentos epistemológicos da EP**: Conceitos de técnica, tecnologia, trabalho e EP; Trabalho como exercício social da técnica. EP como um direito do trabalhador; Dimensões humanas do trabalho: identitária, estética, ética, cultural, social, econômica; O trabalho como obra; O saber do/no trabalho e sua aprendizagem; Conceitos de ergonomia, psicologia e análise do trabalho; Interdisciplinaridade ampla.
+- **História da Educação Profissional**: Trabalho e técnica no Brasil colônia; A EP no século XIX; República: Educação e formação para o trabalho; Educação Profissional no século XX.
+- **Estrutura e Políticas da Educação Profissional**: Ofertantes de EP: rede federal, serviços nacionais de aprendizagem, redes estaduais e privadas; Políticas e legislação de Educação Profissional; Eixos Tecnológicos, Catálogos e Novo Ensino Médio; Itinerários Formativos; Políticas Públicas para a Educação Profissional.
+
+**Objetivos**
+
+- Permitir uma compreensão dos fundamentos da Educação Profissional;
+- Permitir compreensão das diversas dimensões do trabalho, da formação profissional, da interprofissionalidade;
+- Valorizar a formação de trabalhadores;
+- Ressignificar o status do saber técnico-profissional, compreender a importância de conhecer o trabalho para ensiná-lo, bem como as relações epistemológicas entre os diversos campos do conhecimento;
+- Situar a EPT historicamente;
+- Compreender a estrutura da EPT, o panorama educacional em termos estatísticos e legais, metas, situação do país;
+- Compreender o que está em jogo nas políticas e como são estruturadas;
+- Inserir os estudantes como agentes de transformação.
+ 
+
+**Datas**
+
+- Início: 14/06/2022
+- Término: 25/07/2022
+
+---
+
+#### Cronograma
+
+| **Período**                | **O que estudar?**                                                                                    | **O que fazer?**                                                                                          | **Como**                                         |
+|:--------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|
+| **SEMANA 1** 14/06 a 20/06 | [Livro 1 - Conceitos fundamentais da EPT](https://ava.cefor.ifes.edu.br/mod/book/view.php?id=1750996) | Indicação da Escolha do Profissional (10 pontos)                                                          | Participando no Fórum (disciplina EJATA)         |
+| **SEMANA 2** 21/06 a 27/06 | Livro 2 - O fazer-saber do trabalho e sua incorporação                                                | Indicar como foi o primeiro contato com este profissional (10 pontos)                                     | Participando no Fórum (disciplina Epistemologia) |
+| **SEMANA 3** 28/06 a 04/07 | Livro 3 - História da EP no Brasil                                                                    | [Preparar a Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)              |                                                  |
+| **SEMANA 4** 05 a 11/07    | Livro 4 - Organização da Educação profissional                                                        | [Entregar da Avaliação Integrada (30 pontos)](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000) | Envio de Arquivo                                 |
+| **SEMANA 5** 12 a 18/07    | Socialização da Atividade Integradora                                                                 | (Avaliação presencial) em pequenos grupos (20 pontos) Responder o Questionário (30 pontos)                | No Polo                                          |
+| **SEMANA 6** 19 a 25/07    | Atividade de recuperação                                                                              | Atividade de recuperação: fórum, questionário, Avaliação Integrada                                        | fórum, questionário, Envio de Arquivo            |
 
 ---
 
@@ -192,9 +236,77 @@ Didática Profissional
 
 #### Referências
 
+[Plano de Ensino](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1750978)
+
+##### Básicas
+
+BARBIER, J.-M. Formação de adultos e profissionalização: tendências e desafios. Brasília: Liber Livro, 2013.
+
+MOREIRA, M. A. Teorias de Aprendizagem. São Paulo: EPU, 1999.
+
+PASTRÉ, P.; MAYEN, P.; VERGNAUD, G. A Didática Profissional. In: GRUBER, C.; ALLAIN, O.;
+
+WOLLINGER, P. Didática Profissional: princípios e referências para a Educação Profissional. Florianópolis: Publicações do IFSC, 2019.
+
+PERRENOUD, P. Construir as Competências desde a Escola. Porto Alegre: Artmed Editora, 1999.
+
+VYGOTSKY, L. S. Pensamento e Linguagem: Um Estudo Experimental da Formação de Conceitos. 3. ed. São Paulo: Martins Fontes, 2005.
+
+##### Complementares
+
+ALLAIN, Olivier; GRUBER, Crislaine; WOLLINGER, Paulo. Didática Profissional: princípios e referências para a Educação Profissional. Florianópolis: Publicações do IFSC, 2019.
+
+BARATO, Jarbas Novelino. Educação Profissional: saberes do ócio ou saberes do trabalho. São Paulo: Senac São Paulo, 2004.
+
+BARBOSA, Eduardo Fernandes; MOURA, Dácio Guimarães de. Metodologias ativas de aprendizagem na educação profissional e tecnológica. Rio de Janeiro:
+
+Boletim Técnico Senac, v. 39, n. 2, p.48-67, maio/ago. 2013. Disponível em: <http://www.bts.senac.br/index.php/bts/article/view/349>
+
+BECKER, F. Aprendizagem: concepções contraditórias. Revista eletrônica de psicologia e epistemologia genética. v. I, n. 1, p. 53-72, jan./jun. 2008. Disponível em: <http://www2.marilia.unesp.br/revistas/index.php/scheme/article/view/552>. Acesso em 8 ago. 2018.
+
+BENDER, William N. Aprendizagem baseada em projetos: educação diferenciada
+
+para o século XXI. Porto Alegre: Penso, 2014.
+
+BILLETT, S. Aprendendo profissões pela prática: currículo, pedagogia e epistemologia da prática. Dep. of Education and Professional Studies, Griffith University, Australia, 2018. Brochura resumo da teoria produzida no âmbito da pesquisa “Enhancing practice-based learning experiences: towards a curriculum, pedagogic and epistemology of practice”, trad. Olivier Allain, Crislaine Gruber, Paulo Wollinger. Disponível em: <https://vocationsandlearning.wordpress.com/resources/>
+
+BILLETT, S. Learning through practice: beyond informal and towards a framework for learning through practice. In: Revisiting global trends in TVET: Reflections on theory and practice (pp. 123–163). Germany: UNESCO, 2013.
+
+BILLETT, S. Personal epistemologies, work and learning. Educational Research Review, Griffith University, Queensland, Australia, 2009. https://doi.org/10.1016/j.edurev.2009.06.001
+
+CALVO, L. C. S. Comunidades de Prática: revisão dos estudos seminais e dos desenvolvidos na área de formação e atuação docente. SIGNUM: Estud. Ling., Londrina, n. 20/1, p. 186-217, abr. 2017.
+
+CAMARGO, Fausto; DAROS, Thuinie. A sala de aula inovadora: Estratégias pedagógicas para fomentar o aprendizado ativo. Porto Alegre: Penso, 2018.
+
+CESCON, Everaldo. Cognição situada e aprendizagem em contextos escolares. Itinerário educativo, ano xxx, n.° 68, jul.-dez. 2016, pp. 37-50. Disponível em: <http://revistas.usbbog.edu.co/index.php/Itinerario/article/download/2946/2533/>
+
+LAVE, Jean. Aprendizagem como/na prática. Horizontes Antropológicos, Porto Alegre, v. 21, n. 44, p.37-47, dez. 2015.
+
+MELO, Maria de Fátima Aranha de Queiroz e. Discutindo a aprendizagem sob a perspectiva da teoria ator-rede. Educ. rev. , Curitiba, n. 39, p. 177-190, abril de 2011. Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40602011000100012&lng=en&nrm=iso>
+
+MJELDE, Liv. Aprendizagem por meio de práxis e compartilhamento: Lev Vygotsky e a Pedagogia da Educação Profissional. B. Tec. Senac: a R. Educ. Prof., Rio de Janeiro, v. 41 n. 3, p. 30-53, set./dez. 2015. Disponível em: <https://pdfs.semanticscholar.org/ecef/6bf8b7d71e1fcb0c46356cced005e0952515.pdf>
+
+SOARES CARVALHO, M. J. (2013). Proposições e controvérsias no conectivismo. RIED. Revista Iberoamericana de Educación a Distancia, volumen 16, nº 2, pp. 09-31. Disponível em: <http://revistas.uned.es/index.php/ried/article/download/9903/9446>.
+
+TOURMEN, Claire et al. The Piagetian Schème: a Framework to Study Professional Learning Through Conceptualization. Vocations And Learning, [s.l.], p.1-22, 10 mar. 2017. Springer Nature. http://dx.doi.org/10.1007/s12186-017-9174-y.
+
+VERGNAUD, G. Au fond de l’action, la conceptualisation. IN: BARBIER, J.-M. (Org.) Savoirs théoriques et savoirs d’action. Paris: PUF, 1996. pp. 275-292.
+
+WENGER, E. Communities of practice: learning, meaning and identity. Cambridge, MA: Cambridge University, 1998a.
+
+WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI. Revista Thema, v. 16, n. 4, Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense (IFSul), Pelotas/RS - Brasil, 2019.
+
 ---
 
 #### Atividades
+
+##### Semana 01
+
+[Livro 1 - Conceitos fundamentais da EPT](https://ava.cefor.ifes.edu.br/mod/book/view.php?id=1750996)
+
+[Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)
+
+[![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
 
 ---
 
@@ -232,7 +344,7 @@ Professor Mediador:
 
 Professores Formadoradores: 
 
-- Igor MEndonça
+- Igor Mendonça
 - Yvina Pavan Baldo
 
 ---
