@@ -24,6 +24,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
                 - [Complementares](#complementares)
             - [Atividades](#atividades)
                 - [Semana 01](#semana-01)
+                    - [Leituras Complementares](#leituras-complementares)
         - [Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](#educa%C3%A7%C3%A3o-de-jovens-e-adultos-e-teorias-da-aprendizagem-na-ept)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
@@ -310,7 +311,13 @@ WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: nova
 
 [![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
 
+###### Leituras Complementares
+
 [![PDF](https://img.shields.io/badge/OBSERVAÇÕES_SOBRE_A_TÉCNICA_E_A_TECNOLOGIA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/observacoes_sobre_a_tecnica_e_a_tecnologia.pdf)
+
+[![PDF](https://img.shields.io/badge/A_TECNOLOGIA_CIÊNCIA_HUMANA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/a_tecnologia_ciencia_humana.pdf)
+
+[![PDF](https://img.shields.io/badge/IDENTIDADE_DE_ESCOLA_TÉCNICA_VS_VONTADE_DE_UNIVERSIDADE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/identidade_de_escola_tecnica_vs_vontade_de_universidade.pdf)
 
 ---
 
