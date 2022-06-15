@@ -26,8 +26,11 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
                 - [Semana 01](#semana-01)
                     - [Leituras Complementares](#leituras-complementares)
         - [Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](#educa%C3%A7%C3%A3o-de-jovens-e-adultos-e-teorias-da-aprendizagem-na-ept)
+            - [Cronograma](#cronograma)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
+                - [Básica](#b%C3%A1sica)
+                - [Complementar](#complementar)
             - [Atividades](#atividades)
         - [Tecnologias Educacionais na EPT](#tecnologias-educacionais-na-ept)
             - [Videoaulas](#videoaulas)
@@ -329,9 +332,41 @@ Professor Mediador:
 
 Professores Formadoradores: 
 
-- Jaqueline Maissiat
+- [Jaqueline Maissiat](https://ava.cefor.ifes.edu.br/user/view.php?id=845&course=27461)
 - Sanandreia Perini
 - Olivier Allain 
+
+**Carga horária**: 60h
+ 
+**Ementa**
+
+- Educação de Adultos: princípios andragógicos e heutagógicos; abordagens e teorias educacionais na atualidade para a Educação Profissional; concepções de aprendizagem na Educação Profissional: teoria da aprendizagem social (ou cognição situada), conceituação na ação (Didática Profissional), teoria ator-rede, sociointeracionismo no contexto da Educação Profissional, epistemologia da prática ou epistemologias pessoais, inteligências múltiplas, aprendizagem significativa, entre outros.
+
+**Objetivos**
+
+- Proporcionar conhecimentos acerca das teorias da aprendizagem;
+- Possibilitar uma visão crítica sobre as concepções de educação, de ensino, de aprendizagem e de relação professor-aluno atinentes a cada uma delas;
+- Capacitar o docente a atuar com Educação de Jovens e Adultos na Educação Profissional, a partir de perspectivas contemporâneas de educação.
+
+**Datas**
+
+- Início: 14/06/2022
+- Término: 25/07/2022
+
+---
+
+#### Cronograma
+
+| **Data**      | **Tarefa**                                                            | **Modalidade**                                   | **Valor**                   |
+|:-------------:|:---------------------------------------------------------------------:|:------------------------------------------------:|:---------------------------:|
+| 14/06 a 20/06 | SEMANA 1 - Indicação da Escolha do Profissional                       | Participação no Fórum (disciplina EJATA)         | 10 pontos                   |
+| 14/06         | SEMANA 1  - Live 1                                                    | Youtube                                          | sem pontuação               |
+| 21/06 a 27/06 | SEMANA 2 - Indicar como foi o primeiro contato com este profissional  | Participação no Fórum (disciplina Epistemologia) | 10 pontos                   |
+| 21/06         | SEMANA 2 - Live 2                                                     | Youtube                                          | sempontuação                |
+| 05/07         | SEMANA 3 - Liberação de Atividade                                     | Questionário                                     | 30 pontos                   |
+| 11/07         | SEMANA 4 - Entrega da Avaliação Integradora                           | Envio de Arquivo                                 | 30 pontos                   |
+| 16/07         | SEMANA 5 - Avaliação presencial em pequenos grupos.                   | polo                                             | 20 pontos                   |
+| 23/07         | Atividade de recuperação<br/> questionário<br/>atividade integradora. | <br>questionário<br/>Envio de Arquivo            | <br>30 pontos<br/>50 pontos |
 
 ---
 
@@ -340,6 +375,94 @@ Professores Formadoradores:
 ---
 
 #### Referências
+
+##### Básica
+
+ARBIER, J.-M. Formação de adultos e profissionalização: tendências e desafios. Brasília: Liber Livro, 2013.
+
+MOREIRA, M. A. Teorias de Aprendizagem. São Paulo: EPU, 1999.
+
+PASTRÉ, P.; MAYEN, P.; VERGNAUD, G. A Didática Profissional. In: GRUBER, C.; ALLAIN, O.; 
+
+WOLLINGER, P. Didática Profissional: princípios e referências para a Educação Profissional. Florianópolis: Publicações do IFSC, 2019.
+
+PERRENOUD, P. Construir as Competências desde a Escola. Porto Alegre: Artmed Editora, 1999.
+
+VYGOTSKY, L. S. Pensamento e Linguagem: Um Estudo Experimental da Formação de Conceitos. 3. ed. São Paulo: Martins Fontes, 2005.
+
+##### Complementar
+
+ALLAIN, Olivier; GRUBER, Crislaine; WOLLINGER, Paulo. Didática Profissional: princípios e referências para a Educação Profissional. Florianópolis: Publicações do IFSC, 2019.
+
+BARATO, Jarbas Novelino. Educação Profissional: saberes do ócio ou saberes do trabalho. São Paulo: Senac São Paulo, 2004.  
+
+BARBOSA, Eduardo Fernandes; MOURA, Dácio Guimarães de. Metodologias ativas de aprendizagem na educação profissional e tecnológica. Rio de Janeiro:
+
+Boletim Técnico Senac, v. 39, n. 2, p.48-67, maio/ago. 2013. Disponível em: <http://www.bts.senac.br/index.php/bts/article/view/349>
+
+BECKER, F. Aprendizagem: concepções contraditórias. Revista eletrônica de psicologia e epistemologia genética. v. I, n. 1, p. 53-72, jan./jun. 2008. Disponível em: <http://www2.marilia.unesp.br/revistas/index.php/scheme/article/view/552>. Acesso em 8 ago. 2018. 
+
+BENDER, William N. Aprendizagem baseada em projetos: educação diferenciada
+
+para o século XXI. Porto Alegre: Penso, 2014.
+
+BILLETT, S. Aprendendo profissões pela prática: currículo, pedagogia e epistemologia da prática. Dep. of Education and Professional Studies, Griffith University, Australia, 2018. Brochura resumo da teoria produzida no âmbito da pesquisa “Enhancing practice-based learning experiences: towards a curriculum, pedagogic and epistemology of practice”, trad. Olivier Allain, Crislaine Gruber, Paulo Wollinger. Disponível em: <https://vocationsandlearning.wordpress.com/resources/>
+
+BILLETT, S. Learning through practice: beyond informal and towards a framework for learning through practice. In: Revisiting global trends in TVET: Reflections on theory and practice (pp. 123–163). Germany: UNESCO, 2013.
+
+BILLETT, S. Personal epistemologies, work and learning. Educational Research Review, Griffith University, Queensland, Australia, 2009. https://doi.org/10.1016/j.edurev.2009.06.001
+
+BOTTI, Sérgio Henrique de Oliveira; REGO, Sergio. Processo ensino-aprendizagem
+
+na residência médica. Revista Brasileira de Educação Médica. v. 34, n. 1, p.132-
+
+140, mar. 2010. 
+
+BOURGEOIS, E.; DURAND, M. Apprendre au travail. Paris: Presses Universitaires de France, 2012.
+
+BRANCO, M. A. R. da V. Aprendizagem de Adultos - Andragogia. In: COLOMEISCHI, Aurora Adina. Programa de Intervenção Social e Psicopedagógica para Pais. Bragança, Portugal: Instituto Politécnico de Bragança, 2016.
+
+BÜNNING, Frank. Approaches to Action Learning in Technical and Vocational
+
+Education and Training (TVET). Bonn: Inwent, 2007. Disponível
+
+em: <http://www.unevoc.unesco.org/fileadmin/user_upload/pubs/ActionLearning.pdf> Acesso em: 18 out. 2018.
+
+CALVO, L. C. S. Comunidades de Prática: revisão dos estudos seminais e dos desenvolvidos na área de formação e atuação docente. SIGNUM: Estud. Ling., Londrina, n. 20/1, p. 186-217, abr. 2017.
+
+CAMARGO, Fausto; DAROS, Thuinie. A sala de aula inovadora: Estratégias pedagógicas para fomentar o aprendizado ativo. Porto Alegre: Penso, 2018.
+
+CESCON, Everaldo. Cognição situada e aprendizagem em contextos escolares. Itinerário educativo, ano xxx, n.° 68, jul.-dez. 2016, pp. 37-50. Disponível em: <http://revistas.usbbog.edu.co/index.php/Itinerario/article/download/2946/2533/>
+
+COELHO, Marcos Antônio; DUTRA, Lenise Ribeiro; MARIELI, Joane. Andragogia e heutagogia: práticas emergentes na educação. Revista Transformar, n. 8, 2016, Itaperuna, RJ. Disponível em: <http://www.fsj.edu.br/transformar/index.php/transformar/article/view/87>
+
+LAVE, J.; WENGER, E. Situated learning: legitimate peripheral participation. Cambridge, MA: Cambridge University, 1991.
+
+LAVE, Jean. Aprendizagem como/na prática. Horizontes Antropológicos, Porto Alegre, v. 21, n. 44, p.37-47, dez. 2015.
+
+MELO, Maria de Fátima Aranha de Queiroz e. Discutindo a aprendizagem sob a perspectiva da teoria ator-rede. Educ. rev. , Curitiba, n. 39, p. 177-190, abril de 2011. Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-40602011000100012&lng=en&nrm=iso> 
+
+MJELDE, Liv. Aprendizagem por meio de práxis e compartilhamento: Lev Vygotsky e a Pedagogia da Educação Profissional. B. Tec. Senac: a R. Educ. Prof., Rio de Janeiro, v. 41 n. 3, p. 30-53, set./dez. 2015. Disponível em: <https://pdfs.semanticscholar.org/ecef/6bf8b7d71e1fcb0c46356cced005e0952515.pdf>
+
+MULLER, B. C.; CAMPOS, C. R. P.; SOUZA, M. A. V. F. de. Inteligências múltiplas: alternativa para as diversas formas de aprendizagem. In: SOUZA, M. A. V. F. de.; SAD, L. A.; THIENGO, E. R. Aprendizagem em diferentes temas: uma abordagem introdutória. Vitória, ES: Ifes, 2015. Disponível em: <https://educimat.cefor.ifes.edu.br/images/stories/Publica%C3%A7%C3%B5es/Livros/Livro-2-Aprendizagem-em-diferentes-temas_2016.pdf#page=77>PETTY, Geoffy. Twenty Five Ways for Teaching Without Talking: presenting students with new  material. Sutton Coldfield College, fev. 2002. Disponível em: <http://geoffpetty.com/forteachers/active-learning/>. Acessado em: 01 abr. 2018.
+
+RIBEIRO, Luis R. de Camargo. Aprendizagem baseada em problemas (PBL): uma experiência no ensino superior. São Carlos: EdUFSCar, 2008.
+
+SCHÖN, D. A. Educando o Profissional Reflexivo: um novo design para o ensino e a aprendizagem. Trad. Roberto C. Costa. Porto Alegre: Artmed, 2000.
+
+SOARES CARVALHO, M. J. (2013). Proposições e controvérsias no conectivismo. RIED. Revista Iberoamericana de Educación a Distancia, volumen 16, nº 2, pp. 09-31. Disponível em: <http://revistas.uned.es/index.php/ried/article/download/9903/9446>.
+
+TOURMEN, Claire et al. The Piagetian Schème: a Framework to Study Professional Learning Through Conceptualization. Vocations And Learning, [s.l.], p.1-22, 10 mar. 2017. Springer Nature. http://dx.doi.org/10.1007/s12186-017-9174-y.
+
+VERGNAUD, G. Au fond de l’action, la conceptualisation. IN: BARBIER, J.-M. (Org.) Savoirs théoriques et savoirs d’action. Paris: PUF, 1996. pp. 275-292.
+
+WENGER, E. Communities of practice: learning, meaning and identity. Cambridge, MA: Cambridge University, 1998a.
+
+WESTERN AUSTRALIA, Department of Training and Workforce Development (DTWD). Designing assessment tools for quality outcomes in VET. Perth, ed. 4. Government of Western Australia, 2013. Disponível em:
+
+<https://www.voced.edu.au/content/ngv%3A65904>. Acesso em: 03 mar. 2019.
+
+WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI. Revista Thema, v. 16, n. 4, Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense (IFSul), Pelotas/RS - Brasil, 2019.
 
 ---
 
