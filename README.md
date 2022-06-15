@@ -306,6 +306,8 @@ WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: nova
 
 [Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)
 
+[![Capa Youtube](https://img.youtube.com/vi/OOIFuTWfIpg/mqdefault.jpg)](https://www.youtube.com/watch?v=OOIFuTWfIpg)
+
 [![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
 
 ---
