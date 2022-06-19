@@ -19,19 +19,19 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
         - [Epistemologia da EPT](#epistemologia-da-ept)
             - [Cronograma](#cronograma)
             - [Videoaulas](#videoaulas)
-            - [Referências](#refer%C3%AAncias)
-                - [Básicas](#b%C3%A1sicas)
-                - [Complementares](#complementares)
             - [Atividades](#atividades)
                 - [Semana 01](#semana-01)
                     - [Leituras Complementares](#leituras-complementares)
+            - [Referências](#refer%C3%AAncias)
+                - [Básicas](#b%C3%A1sicas)
+                - [Complementares](#complementares)
         - [Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](#educa%C3%A7%C3%A3o-de-jovens-e-adultos-e-teorias-da-aprendizagem-na-ept)
             - [Cronograma](#cronograma)
             - [Videoaulas](#videoaulas)
+            - [Atividades](#atividades)
             - [Referências](#refer%C3%AAncias)
                 - [Básica](#b%C3%A1sica)
                 - [Complementar](#complementar)
-            - [Atividades](#atividades)
         - [Tecnologias Educacionais na EPT](#tecnologias-educacionais-na-ept)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
@@ -238,6 +238,30 @@ Didática Profissional
 
 ---
 
+#### Atividades
+
+##### Semana 01
+
+[Livro 1 - Conceitos fundamentais da EPT](https://crescercomeducacao.com.br/conceitos-fundamentais-da-educacao-profissional-e-tecnica/) 
+
+[![PDF](https://img.shields.io/badge/CONCEITOS_FUNDAMENTAIS_DA_EPT-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Conceitos_Fundamentais_da_EPT.pdf)
+
+[Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)
+
+[![Capa Youtube](https://img.youtube.com/vi/OOIFuTWfIpg/mqdefault.jpg)](https://www.youtube.com/watch?v=OOIFuTWfIpg)
+
+[![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
+
+###### Leituras Complementares
+
+[![PDF](https://img.shields.io/badge/OBSERVAÇÕES_SOBRE_A_TÉCNICA_E_A_TECNOLOGIA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/observacoes_sobre_a_tecnica_e_a_tecnologia.pdf)
+
+[![PDF](https://img.shields.io/badge/A_TECNOLOGIA_CIÊNCIA_HUMANA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/a_tecnologia_ciencia_humana.pdf)
+
+[![PDF](https://img.shields.io/badge/IDENTIDADE_DE_ESCOLA_TÉCNICA_VS_VONTADE_DE_UNIVERSIDADE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/identidade_de_escola_tecnica_vs_vontade_de_universidade.pdf)
+
+---
+
 #### Referências
 
 [Plano de Ensino](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1750978)
@@ -302,30 +326,6 @@ WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: nova
 
 ---
 
-#### Atividades
-
-##### Semana 01
-
-[Livro 1 - Conceitos fundamentais da EPT](https://crescercomeducacao.com.br/conceitos-fundamentais-da-educacao-profissional-e-tecnica/) 
-
-[![PDF](https://img.shields.io/badge/CONCEITOS_FUNDAMENTAIS_DA_EPT-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/Conceitos_Fundamentais_da_EPT.pdf)
-
-[Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)
-
-[![Capa Youtube](https://img.youtube.com/vi/OOIFuTWfIpg/mqdefault.jpg)](https://www.youtube.com/watch?v=OOIFuTWfIpg)
-
-[![Word](https://img.shields.io/badge/AVALIAÇÃO_INTEGRADA-2B579A?style=for-the-badge&logo=MicrosoftWord&logoColor=white)](assets/epistemoloigia_da_ept_Atividade_Integrada.docx)
-
-###### Leituras Complementares
-
-[![PDF](https://img.shields.io/badge/OBSERVAÇÕES_SOBRE_A_TÉCNICA_E_A_TECNOLOGIA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/observacoes_sobre_a_tecnica_e_a_tecnologia.pdf)
-
-[![PDF](https://img.shields.io/badge/A_TECNOLOGIA_CIÊNCIA_HUMANA-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/a_tecnologia_ciencia_humana.pdf)
-
-[![PDF](https://img.shields.io/badge/IDENTIDADE_DE_ESCOLA_TÉCNICA_VS_VONTADE_DE_UNIVERSIDADE-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white)](assets/identidade_de_escola_tecnica_vs_vontade_de_universidade.pdf)
-
----
-
 ### Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
 
 [![Banner Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT](assets/banner_educacao_de_jovens_e_adultos.png)]()
@@ -373,6 +373,18 @@ Professores Formadoradores:
 ---
 
 #### Videoaulas
+
+Epistemologia da EPT
+
+[![Capa Youtube](https://img.youtube.com/vi/XgXLCR1mc4w/mqdefault.jpg)](https://www.youtube.com/watch?v=XgXLCR1mc4w)
+
+Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
+
+[![Capa Youtube](https://img.youtube.com/vi/USApQX3rzVU/mqdefault.jpg)](https://www.youtube.com/watch?v=USApQX3rzVU)
+
+---
+
+#### Atividades
 
 ---
 
@@ -465,10 +477,6 @@ WESTERN AUSTRALIA, Department of Training and Workforce Development (DTWD). Desi
 <https://www.voced.edu.au/content/ngv%3A65904>. Acesso em: 03 mar. 2019.
 
 WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: novas formas de ensinar e aprender no século XXI. Revista Thema, v. 16, n. 4, Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense (IFSul), Pelotas/RS - Brasil, 2019.
-
----
-
-#### Atividades
 
 ---
 
