@@ -360,7 +360,7 @@ Professores Formadoradores:
 | **Data**      | **Tarefa**                                                            | **Modalidade**                                   | **Valor**                   |
 |:-------------:|:---------------------------------------------------------------------:|:------------------------------------------------:|:---------------------------:|
 | 14/06 a 20/06 | SEMANA 1 - Indicação da Escolha do Profissional                       | Participação no Fórum (disciplina EJATA)         | 10 pontos                   |
-| 14/06         | SEMANA 1  - Live 1                                                    | Youtube                                          | sem pontuação               |
+| 14/06         | SEMANA 1  - Live 1                                                    | [Youtube](https://www.youtube.com/watch?v=XgXLCR1mc4w)                                          | sem pontuação               |
 | 21/06 a 27/06 | SEMANA 2 - Indicar como foi o primeiro contato com este profissional  | Participação no Fórum (disciplina Epistemologia) | 10 pontos                   |
 | 21/06         | SEMANA 2 - Live 2                                                     | Youtube                                          | sempontuação                |
 | 05/07         | SEMANA 3 - Liberação de Atividade                                     | Questionário                                     | 30 pontos                   |
