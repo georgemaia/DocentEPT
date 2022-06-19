@@ -306,7 +306,7 @@ WITT, Diego Teixeira; ROSTIROLA, Sandra Cristina. Conectivismo Pedagógico: nova
 
 ##### Semana 01
 
-[Livro 1 - Conceitos fundamentais da EPT](https://ava.cefor.ifes.edu.br/mod/book/view.php?id=1750996) -[Post](https://crescercomeducacao.com.br/conceitos-fundamentais-da-educacao-profissional-e-tecnica/)
+[Livro 1 - Conceitos fundamentais da EPT](https://crescercomeducacao.com.br/conceitos-fundamentais-da-educacao-profissional-e-tecnica/)
 
 [Avaliação Integrada](https://ava.cefor.ifes.edu.br/mod/page/view.php?id=1751000)
 
