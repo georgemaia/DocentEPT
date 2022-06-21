@@ -364,7 +364,7 @@ Professores Formadoradores:
 | 14/06 a 20/06 | SEMANA 1 - Indicação da Escolha do Profissional                       | Participação no Fórum (disciplina EJATA)         | 10 pontos                   |
 | 14/06         | SEMANA 1  - Live 1                                                    | [Youtube](https://www.youtube.com/watch?v=XgXLCR1mc4w)                                          | sem pontuação               |
 | 21/06 a 27/06 | SEMANA 2 - Indicar como foi o primeiro contato com este profissional  | Participação no Fórum (disciplina Epistemologia) | 10 pontos                   |
-| 21/06         | SEMANA 2 - Live 2                                                     | Youtube                                          | sempontuação                |
+| 21/06         | SEMANA 2 - Live 2                                                     | [Youtube](https://www.youtube.com/watch?v=USApQX3rzVU)                                         | sem pontuação                |
 | 05/07         | SEMANA 3 - Liberação de Atividade                                     | Questionário                                     | 30 pontos                   |
 | 11/07         | SEMANA 4 - Entrega da Avaliação Integradora                           | Envio de Arquivo                                 | 30 pontos                   |
 | 16/07         | SEMANA 5 - Avaliação presencial em pequenos grupos.                   | polo                                             | 20 pontos                   |
