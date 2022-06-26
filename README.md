@@ -396,6 +396,8 @@ Teorias Clássicas de Aprendizagem
 
 [Abordagem Sociointeracionista](https://crescercomeducacao.com.br/abordagem-sociointeracionista/)
 
+[Conceituação na ação](https://crescercomeducacao.com.br/conceituacao-na-acao)
+
 ##### Básica
 
 ARBIER, J.-M. Formação de adultos e profissionalização: tendências e desafios. Brasília: Liber Livro, 2013.
