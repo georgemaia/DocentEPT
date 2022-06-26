@@ -382,6 +382,10 @@ Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
 
 [![Capa Youtube](https://img.youtube.com/vi/USApQX3rzVU/mqdefault.jpg)](https://www.youtube.com/watch?v=USApQX3rzVU)
 
+Teorias Clássicas de Aprendizagem
+
+[![Capa Youtube](https://img.youtube.com/vi/njapKl7-ZuU/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLYb8MujOHWhChrjbNyTqPcYeMWQG21iXD)
+
 ---
 
 #### Atividades
@@ -389,6 +393,8 @@ Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT
 ---
 
 #### Referências
+
+[Abordagem Sociointeracionista](https://crescercomeducacao.com.br/abordagem-sociointeracionista/)
 
 ##### Básica
 
