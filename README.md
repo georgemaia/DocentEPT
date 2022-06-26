@@ -386,6 +386,10 @@ Teorias Clássicas de Aprendizagem
 
 [![Capa Youtube](https://img.youtube.com/vi/njapKl7-ZuU/mqdefault.jpg)](https://www.youtube.com/playlist?list=PLYb8MujOHWhChrjbNyTqPcYeMWQG21iXD)
 
+Abordagem Sócio-interacionista na EPT
+
+[![Capa Youtube](https://img.youtube.com/vi/9IuAosbuxc4/mqdefault.jpg)](https://www.youtube.com/watch?v=9IuAosbuxc4)
+
 ---
 
 #### Atividades
