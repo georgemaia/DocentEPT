@@ -166,6 +166,10 @@ Paines dos grupos:
 - [Grupo 7: Design Educacional para EaD](https://crescercomeducacao.com.br/design-educacional/)
 - [Grupo 8: Google Sala de Aula](https://www.canva.com/design/DAFClSJovLU/3Wxn0LLZN4IdEvn8o6AMvA/view?utm_content=DAFClSJovLU&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
+Tutorial Padlet
+
+[![Capa Youtube](https://img.youtube.com/vi/pLtkjLYbkJM/mqdefault.jpg)](https://www.youtube.com/watch?v=pLtkjLYbkJM)
+
 ---
 
 ### Epistemologia da EPT 
