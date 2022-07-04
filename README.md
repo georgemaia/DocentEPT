@@ -37,7 +37,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
             - [Atividades](#atividades)
-        - [Didática](#did%C3%A1tica)
+        - [Didática Profissional](#did%C3%A1tica-profissional)
             - [Videoaulas](#videoaulas)
             - [Referências](#refer%C3%AAncias)
             - [Atividades](#atividades)
@@ -94,7 +94,7 @@ Para fazer sua solicitação, você deverá:
 | Educação de Jovens e Adultos e Teorias da Aprendizagem na EPT |         60        | Jaqueline Maissiat, Sanandreia Perini e Olivier Allain |
 |                Tecnologias Educacionais na EPT                |         60        | Igor MEndonça e Yvina Pavan Baldo                      |
 |                            Didática                           |         60        | Paulo Wollinger e Indiana Reis                         |
-|                   Práticas Inclusivas na EPT                   |         40        | Larissy Cotonhoto e Emilene Coco                       |
+|                   Práticas Inclusivas na EPT                  |         40        | Larissy Cotonhoto e Emilene Coco                       |
 |                      Projetos Pedagógicos                     |         60        | Elizabete Sandrini e Sananadreia Perini                |
 |                Pesquisa e Extensão Tecnológicas               |         40        | Emilene Coco e Indiana Reis                            |
 |                             Libras                            |         30        | Eliana Burgarelli e Carla Rejane                       |
@@ -105,8 +105,6 @@ Para fazer sua solicitação, você deverá:
 ### Calendário Google
 
 [![GoogleCalendar](https://img.shields.io/badge/CALENDÀRIO-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=aDhyZWVzZjN1Y2FhYzYyNDg2anJlZGVqMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-<iframe src="https://calendar.google.com/calendar/embed?src=h8reesf3ucaac62486jredej24%40group.calendar.google.com&ctz=America%2FFortaleza" style="border: 0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 ---
 
@@ -169,7 +167,7 @@ Paines dos grupos:
 - Grupo 1: Afetividade na EaD
 - Grupo 2: A importância do Feedback na EaD
 - Grupo 3: O papel do tutor/mediador na EaD
-- Grupo 4: Colaboração na EaD 
+- [Grupo 4: Colaboração na EaD](https://padlet.com/georgemaia/332pw07gdh4uto8a)
 - [Grupo 5: Avaliação na EaD](https://crescercomeducacao.com.br/avaliacao-no-ead/) 
 - [Grupo 6: O Fórum na EaD](https://crescercomeducacao.com.br/forum-na-ead/)
 - [Grupo 7: Design Educacional para EaD](https://crescercomeducacao.com.br/design-educacional/)
@@ -530,7 +528,7 @@ Professores Formadoradores:
 
 ---
 
-### Didática
+### Didática Profissional
 
 [![Banner Didática](assets/banner_didatica.png)]()
 
@@ -658,3 +656,9 @@ Professores Formadoradores:
 ### Trabalho Final de Curso
 
 [![Banner Trabalho Final de Curso](assets/banner_trabalho_final_de_curso.png)]()
+
+
+Professores Formadoradores: 
+
+- Paulo Wollinger 
+- Jaqueline Maissiat
