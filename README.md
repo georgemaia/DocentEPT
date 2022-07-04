@@ -101,6 +101,12 @@ Para fazer sua solicitação, você deverá:
 
 ---
 
+## Calendário Google
+
+https://calendar.google.com/calendar/u/0?cid=aDhyZWVzZjN1Y2FhYzYyNDg2anJlZGVqMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+
+---
+
 ## Disciplinas
 
 ### Ambientação em Educação a Distância
