@@ -167,7 +167,7 @@ Paines dos grupos:
 - Grupo 1: Afetividade na EaD
 - Grupo 2: A importância do Feedback na EaD
 - Grupo 3: O papel do tutor/mediador na EaD
-- [Grupo 4: Colaboração na EaD](https://padlet.com/georgemaia/332pw07gdh4uto8a)
+- [Grupo 4: Colaboração na EaD](https://crescercomeducacao.com.br/colaboracao-na-ead)
 - [Grupo 5: Avaliação na EaD](https://crescercomeducacao.com.br/avaliacao-no-ead/) 
 - [Grupo 6: O Fórum na EaD](https://crescercomeducacao.com.br/forum-na-ead/)
 - [Grupo 7: Design Educacional para EaD](https://crescercomeducacao.com.br/design-educacional/)
