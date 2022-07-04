@@ -103,7 +103,7 @@ Para fazer sua solicitação, você deverá:
 
 ## Calendário Google
 
-https://calendar.google.com/calendar/u/0?cid=aDhyZWVzZjN1Y2FhYzYyNDg2anJlZGVqMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+[![GoogleCalendar](https://img.shields.io/badge/CALENDÀRIO-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=aDhyZWVzZjN1Y2FhYzYyNDg2anJlZGVqMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ---
 
