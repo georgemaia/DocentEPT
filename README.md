@@ -11,6 +11,7 @@ Pós-Graduação Lato Sensu em Docência para Educação Profissional e Tecnoló
         - [Documentação](#documenta%C3%A7%C3%A3o)
         - [Requerimento](#requerimento)
         - [Grade Curricular](#grade-curricular)
+        - [Calendário Google](#calend%C3%A1rio-google)
     - [Disciplinas](#disciplinas)
         - [Ambientação em Educação a Distância](#ambienta%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia)
             - [Videoaulas](#videoaulas)
@@ -101,9 +102,11 @@ Para fazer sua solicitação, você deverá:
 
 ---
 
-## Calendário Google
+### Calendário Google
 
 [![GoogleCalendar](https://img.shields.io/badge/CALENDÀRIO-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendar.google.com/calendar/u/0?cid=aDhyZWVzZjN1Y2FhYzYyNDg2anJlZGVqMjRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+<iframe src="https://calendar.google.com/calendar/embed?src=h8reesf3ucaac62486jredej24%40group.calendar.google.com&ctz=America%2FFortaleza" style="border: 0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 ---
 
