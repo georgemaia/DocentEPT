@@ -539,6 +539,8 @@ Professores Formadoradores:
 - Paulo Wollinger
 - Indiana Reis
 
+[![Capa Youtube](https://img.youtube.com/vi/cdu51E3iqvU/mqdefault.jpg)](https://www.youtube.com/watch?v=cdu51E3iqvU)
+
 ---
 
 #### Videoaulas
